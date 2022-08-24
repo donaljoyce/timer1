@@ -44,7 +44,7 @@ function App() {
   });
   return (
     <div className="main">
-      <h1>Offer Timer......</h1>
+      <h1>Offer Timer...…...............</h1>
       <h2>Offer Ends in just....</h2>
       <div className="counter">
       {timerComponents.length ?timerComponents: <span>Time's up!</span>}
